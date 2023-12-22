@@ -1,0 +1,1 @@
+list and loops assignment
